@@ -297,7 +297,7 @@ Food-Delivery/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shwetavanarse/Food-Delivery.git
+git clone https://github.com/NidhiGadekar/Food-Delivery.git
 ```
 
 ## 2. Open the Project
@@ -432,16 +432,11 @@ These are intentionally listed as future enhancements rather than current featur
 
 # 👩‍💻 Author
 
-## Shweta Vanarse
+## Nidhi Gadekar
 
-**BCA (Science) Graduate | Data Analytics | Python | SQL | Power BI**
+**BCS  Graduate | Data Analytics | Python | SQL | Power BI**
 
 📍 Chhatrapati Sambhajinagar, Maharashtra, India
-
-### Connect with me
-
-- 💻 **GitHub:** [shwetavanarse](https://github.com/shwetavanarse)
-- 🔗 **LinkedIn:** [Shweta Vanarse](https://www.linkedin.com/in/shweta-vanarse-aa82313b1/)
 
 ---
 
