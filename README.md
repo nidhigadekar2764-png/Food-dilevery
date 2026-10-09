@@ -428,6 +428,10 @@ These are intentionally listed as future enhancements rather than current featur
 
 **Customer → Restaurant → Order → Delivery Partner → OTP Verification → Delivery**
 
+# Connect with me 
+Linkedin = www.linkedin.com/in/nidhi-gadekar
+GitHub = https://github.com/nidhigadekar2764-png-tab=repositories
+
 ---
 
 # 👩‍💻 Author
@@ -446,6 +450,6 @@ If you found this project interesting, consider giving the repository a ⭐ on G
 
 ---
 
-### Built with nidhi
+### Built with Nidhi Gadekar
 
 **🐍 Python · 🎈 Streamlit · 🧠 OOP · 📓 Jupyter · 🐙 GitHub**
