@@ -446,6 +446,6 @@ If you found this project interesting, consider giving the repository a ⭐ on G
 
 ---
 
-### Built with
+### Built with nidhi
 
 **🐍 Python · 🎈 Streamlit · 🧠 OOP · 📓 Jupyter · 🐙 GitHub**
